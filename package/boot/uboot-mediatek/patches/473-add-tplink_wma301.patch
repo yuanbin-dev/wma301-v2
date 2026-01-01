@@ -241,7 +241,7 @@
 +			};
 +
 +			partition@280000 {
-+				label = "factory";
++				label = "Factory";
 +				reg = <0x280000 0x100000>;
 +			};
 +
